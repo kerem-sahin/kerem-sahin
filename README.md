@@ -84,3 +84,20 @@ I started out in industrial design and now study medical imaging. Design taught 
 I treat AI as a team I direct, not a magic box. You'll see Claude as co-author on my commits, and that's on purpose. I keep my own library of rules and skills (Swift 6 concurrency, SwiftData + CloudKit pitfalls, App Store review, UX audits) so every project starts from what the last one taught me.
 
 **Stack**: Swift · SwiftUI · SwiftData · CloudKit · Vision · PencilKit · WidgetKit · App Intents · Firebase · React · TypeScript · Capacitor
+
+---
+
+<details>
+<summary>🇹🇷 Türkçe</summary>
+<br>
+
+Merhaba, ben Kerem. Fikirden App Store'a kadar iOS uygulamalarını uçtan uca kendim geliştiriyorum; yapay zekâyı yönettiğim bir ekip arkadaşı gibi kullanıyorum.
+
+Endüstriyel tasarımla başladım, şimdi tıbbi görüntüleme okuyorum. Tasarım bana bir ürünün nasıl hissettirdiğini önemsemeyi öğretti; sağlık ise uygulamalarımın fark yaratmasını istediğim alan.
+
+- **Yayında:** here. (aynı mekândaki insanlarla tanışma) ve notecook (iPad için el yazısı defteri)
+- **App Store onayında:** plainday (düz Türkçe cümleyle plan yapma) ve SweetSpot (saklı yerlerin haritası)
+- **Geliştiriliyor:** Fiziyoo (fizyoterapistler için klinik ve postür analizi uygulaması)
+- **Açık kaynak:** PlainParse, "Cuma fizyoloji ödevi 18:00" gibi Türkçe cümleleri göreve çeviren Swift paketi
+
+</details>
