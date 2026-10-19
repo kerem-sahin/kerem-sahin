@@ -8,23 +8,50 @@ I started out in industrial design and now study medical imaging. Design taught 
 
 - **[PlainParse](https://github.com/kerem-sahin/plainparse)**: turns one plain sentence into a task, in Turkish or English. `Cuma fizyoloji ödevi 18:00` → title, day, time, repeat. Swift, no dependencies, 150 tests. The engine behind plainday's quick-add bar.
 
-**Shipped**
+**Apps**
 
-| | | |
-|---|---|---|
-| **[here.](https://apps.apple.com/tr/app/here/id6767262061)** | See who's at the same venue right now and meet them. Polygon geofencing for malls and campuses, tested in real venues in Konya. | React · Capacitor · Firebase · iOS + Android |
-| **[notecook](https://apps.apple.com/tr/app/notecook/id6811676558)** | Handwriting notebook for iPad and Apple Pencil, with searchable handwriting and PDF annotation. | SwiftUI · PencilKit · Vision |
-
-**In App Store review**
-
-| | | |
-|---|---|---|
-| **plainday** | Day planner that understands plain Turkish and English sentences. Widgets, alarms, Siri. | SwiftUI · SwiftData · AlarmKit · 211 tests |
-| **SweetSpot** | A map of quiet, little-known places, photographed on the spot, with a moderated backend. | SwiftUI · MapKit · Firebase · Cloud Functions |
-
-**Building**
-
-- **Fiziyoo**: clinic app for physiotherapists, with photo-based posture analysis that shows each measurement with its error band. ~30k lines of Swift.
+<table>
+  <tr>
+    <td width="76" valign="top"><a href="https://apps.apple.com/tr/app/here/id6767262061"><img src="assets/here.png" width="60" alt="here. app icon"></a></td>
+    <td valign="top">
+      <b><a href="https://apps.apple.com/tr/app/here/id6767262061">here.</a></b> · <i>on the App Store</i><br>
+      See who's at the same venue right now and meet them. Polygon geofencing for malls and campuses, tested in real venues in Konya.<br>
+      <sub>React · Capacitor · Firebase · iOS + Android</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76" valign="top"><a href="https://apps.apple.com/tr/app/notecook/id6811676558"><img src="assets/notecook.png" width="60" alt="notecook app icon"></a></td>
+    <td valign="top">
+      <b><a href="https://apps.apple.com/tr/app/notecook/id6811676558">notecook</a></b> · <i>on the App Store</i><br>
+      Handwriting notebook for iPad and Apple Pencil, with searchable handwriting and PDF annotation.<br>
+      <sub>SwiftUI · PencilKit · Vision · SwiftData + CloudKit</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76" valign="top"><img src="assets/plainday.png" width="60" alt="plainday app icon"></td>
+    <td valign="top">
+      <b>plainday</b> · <i>in App Store review</i><br>
+      Day planner that understands plain Turkish and English sentences. Widgets, alarms, Siri.<br>
+      <sub>SwiftUI · SwiftData · AlarmKit · WidgetKit · 211 tests</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76" valign="top"><img src="assets/sweetspot.png" width="60" alt="SweetSpot app icon"></td>
+    <td valign="top">
+      <b>SweetSpot</b> · <i>in App Store review</i><br>
+      A map of quiet, little-known places, photographed on the spot, with a moderated backend.<br>
+      <sub>SwiftUI · MapKit · Firebase · Cloud Functions</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76" valign="top"><img src="assets/fiziyoo.png" width="60" alt="Fiziyoo app icon"></td>
+    <td valign="top">
+      <b>Fiziyoo</b> · <i>in development</i><br>
+      Clinic app for physiotherapists, with photo-based posture analysis that shows each measurement with its error band.<br>
+      <sub>SwiftUI · SwiftData + CloudKit · Vision · Swift Charts · ~30k lines of Swift</sub>
+    </td>
+  </tr>
+</table>
 
 **How I work**
 
