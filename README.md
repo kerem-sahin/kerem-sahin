@@ -1,6 +1,6 @@
 ### Hi, I'm Kerem 👋
 
-I'm a university student who builds iOS apps from the idea to the App Store. I don't write the code by hand: I design the product, direct AI to build it, test it, and ship it.
+I'm a university student. I build iOS apps alongside school.
 
 **Open source**
 
@@ -89,7 +89,7 @@ I treat AI as a team I direct, not a magic box. You'll see Claude as co-author o
 <summary>🇹🇷 Türkçe</summary>
 <br>
 
-Merhaba, ben Kerem. Üniversite öğrencisiyim; fikirden App Store'a kadar iOS uygulamaları çıkarıyorum. Kodu elle yazmıyorum: ürünü tasarlıyorum, yapay zekâya yaptırıyorum, test edip yayınlıyorum.
+Merhaba, ben Kerem. Üniversite öğrencisiyim, okulun yanında iOS uygulamaları yapıyorum.
 
 - **Yayında:** here. (aynı mekândaki insanlarla tanışma) ve notecook (iPad için el yazısı defteri)
 - **App Store onayında:** plainday (düz Türkçe cümleyle plan yapma) ve SweetSpot (saklı yerlerin haritası)
