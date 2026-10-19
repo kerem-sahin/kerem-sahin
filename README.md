@@ -16,7 +16,8 @@ I started out in industrial design and now study medical imaging. Design taught 
     <td valign="top">
       <b><a href="https://apps.apple.com/tr/app/here/id6767262061">here.</a></b> · <i>on the App Store</i><br>
       See who's at the same venue right now and meet them. Polygon geofencing for malls and campuses, tested in real venues in Konya.<br>
-      <sub>React · Capacitor · Firebase · iOS + Android</sub>
+      <sub>React · Capacitor · Firebase</sub><br>
+      <a href="https://apps.apple.com/tr/app/here/id6767262061"><img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" alt="Download here. on the App Store"></a><br>
       <details><summary><sub>Screenshots</sub></summary><br>
         <img src="assets/shots/here-1.jpg" width="24%" alt="here screenshot 1">
         <img src="assets/shots/here-2.jpg" width="24%" alt="here screenshot 2">
@@ -30,7 +31,8 @@ I started out in industrial design and now study medical imaging. Design taught 
     <td valign="top">
       <b><a href="https://apps.apple.com/tr/app/notecook/id6811676558">notecook</a></b> · <i>on the App Store</i><br>
       Handwriting notebook for iPad and Apple Pencil, with searchable handwriting and PDF annotation.<br>
-      <sub>SwiftUI · PencilKit · Vision · SwiftData + CloudKit</sub>
+      <sub>SwiftUI · PencilKit · Vision · SwiftData + CloudKit</sub><br>
+      <a href="https://apps.apple.com/tr/app/notecook/id6811676558"><img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" alt="Download notecook on the App Store"></a><br>
       <details><summary><sub>Screenshots</sub></summary><br>
         <img src="assets/shots/notecook-1.jpg" width="24%" alt="notecook screenshot 1">
         <img src="assets/shots/notecook-2.jpg" width="24%" alt="notecook screenshot 2">
