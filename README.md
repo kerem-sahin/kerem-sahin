@@ -1,8 +1,6 @@
 ### Hi, I'm Kerem 👋
 
-I build iOS apps end to end, from the idea to the App Store, working with AI as my pair programmer.
-
-I started out in industrial design and now study medical imaging. Design taught me to care how a product feels; health is where I want my apps to matter. Code is how I get both into people's hands.
+I'm a university student who builds iOS apps from the idea to the App Store. I don't write the code by hand: I design the product, direct AI to build it, test it, and ship it.
 
 **Open source**
 
@@ -91,9 +89,7 @@ I treat AI as a team I direct, not a magic box. You'll see Claude as co-author o
 <summary>🇹🇷 Türkçe</summary>
 <br>
 
-Merhaba, ben Kerem. Fikirden App Store'a kadar iOS uygulamalarını uçtan uca kendim geliştiriyorum; yapay zekâyı yönettiğim bir ekip arkadaşı gibi kullanıyorum.
-
-Endüstriyel tasarımla başladım, şimdi tıbbi görüntüleme okuyorum. Tasarım bana bir ürünün nasıl hissettirdiğini önemsemeyi öğretti; sağlık ise uygulamalarımın fark yaratmasını istediğim alan.
+Merhaba, ben Kerem. Üniversite öğrencisiyim; fikirden App Store'a kadar iOS uygulamaları çıkarıyorum. Kodu elle yazmıyorum: ürünü tasarlıyorum, yapay zekâya yaptırıyorum, test edip yayınlıyorum.
 
 - **Yayında:** here. (aynı mekândaki insanlarla tanışma) ve notecook (iPad için el yazısı defteri)
 - **App Store onayında:** plainday (düz Türkçe cümleyle plan yapma) ve SweetSpot (saklı yerlerin haritası)
