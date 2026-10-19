@@ -17,6 +17,12 @@ I started out in industrial design and now study medical imaging. Design taught 
       <b><a href="https://apps.apple.com/tr/app/here/id6767262061">here.</a></b> · <i>on the App Store</i><br>
       See who's at the same venue right now and meet them. Polygon geofencing for malls and campuses, tested in real venues in Konya.<br>
       <sub>React · Capacitor · Firebase · iOS + Android</sub>
+      <details><summary><sub>Screenshots</sub></summary><br>
+        <img src="assets/shots/here-1.jpg" width="24%" alt="here screenshot 1">
+        <img src="assets/shots/here-2.jpg" width="24%" alt="here screenshot 2">
+        <img src="assets/shots/here-3.jpg" width="24%" alt="here screenshot 3">
+        <img src="assets/shots/here-4.jpg" width="24%" alt="here screenshot 4">
+      </details>
     </td>
   </tr>
   <tr>
@@ -25,6 +31,12 @@ I started out in industrial design and now study medical imaging. Design taught 
       <b><a href="https://apps.apple.com/tr/app/notecook/id6811676558">notecook</a></b> · <i>on the App Store</i><br>
       Handwriting notebook for iPad and Apple Pencil, with searchable handwriting and PDF annotation.<br>
       <sub>SwiftUI · PencilKit · Vision · SwiftData + CloudKit</sub>
+      <details><summary><sub>Screenshots</sub></summary><br>
+        <img src="assets/shots/notecook-1.jpg" width="24%" alt="notecook screenshot 1">
+        <img src="assets/shots/notecook-2.jpg" width="24%" alt="notecook screenshot 2">
+        <img src="assets/shots/notecook-3.jpg" width="24%" alt="notecook screenshot 3">
+        <img src="assets/shots/notecook-4.jpg" width="24%" alt="notecook screenshot 4">
+      </details>
     </td>
   </tr>
   <tr>
@@ -33,6 +45,12 @@ I started out in industrial design and now study medical imaging. Design taught 
       <b>plainday</b> · <i>in App Store review</i><br>
       Day planner that understands plain Turkish and English sentences. Widgets, alarms, Siri.<br>
       <sub>SwiftUI · SwiftData · AlarmKit · WidgetKit · 211 tests</sub>
+      <details><summary><sub>Screenshots</sub></summary><br>
+        <img src="assets/shots/plainday-1.jpg" width="24%" alt="plainday screenshot 1">
+        <img src="assets/shots/plainday-2.jpg" width="24%" alt="plainday screenshot 2">
+        <img src="assets/shots/plainday-3.jpg" width="24%" alt="plainday screenshot 3">
+        <img src="assets/shots/plainday-4.jpg" width="24%" alt="plainday screenshot 4">
+      </details>
     </td>
   </tr>
   <tr>
@@ -41,6 +59,12 @@ I started out in industrial design and now study medical imaging. Design taught 
       <b>SweetSpot</b> · <i>in App Store review</i><br>
       A map of quiet, little-known places, photographed on the spot, with a moderated backend.<br>
       <sub>SwiftUI · MapKit · Firebase · Cloud Functions</sub>
+      <details><summary><sub>Screenshots</sub></summary><br>
+        <img src="assets/shots/sweetspot-1.jpg" width="24%" alt="sweetspot screenshot 1">
+        <img src="assets/shots/sweetspot-2.jpg" width="24%" alt="sweetspot screenshot 2">
+        <img src="assets/shots/sweetspot-3.jpg" width="24%" alt="sweetspot screenshot 3">
+        <img src="assets/shots/sweetspot-4.jpg" width="24%" alt="sweetspot screenshot 4">
+      </details>
     </td>
   </tr>
   <tr>
