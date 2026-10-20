@@ -2,6 +2,8 @@
 
 I'm a university student. I build iOS apps alongside school.
 
+🌐 Portfolio: **[kerem-sahin.github.io](https://kerem-sahin.github.io)**
+
 **Open source**
 
 - **[PlainParse](https://github.com/kerem-sahin/plainparse)**: turns one plain sentence into a task, in Turkish or English. `Cuma fizyoloji ödevi 18:00` → title, day, time, repeat. Swift, no dependencies, 150 tests. The engine behind plainday's quick-add bar.
@@ -90,6 +92,8 @@ I treat AI as a team I direct, not a magic box. You'll see Claude as co-author o
 <br>
 
 Merhaba, ben Kerem. Üniversite öğrencisiyim, okulun yanında iOS uygulamaları yapıyorum.
+
+Portfolyom: **[kerem-sahin.github.io](https://kerem-sahin.github.io)**
 
 - **Yayında:** here. (aynı mekândaki insanlarla tanışma) ve notecook (iPad için el yazısı defteri)
 - **App Store onayında:** plainday (düz Türkçe cümleyle plan yapma) ve SweetSpot (saklı yerlerin haritası)
