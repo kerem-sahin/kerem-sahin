@@ -34,10 +34,10 @@ I'm a university student. I build iOS apps alongside school.
       <sub>SwiftUI · PencilKit · Vision · SwiftData + CloudKit</sub><br>
       <a href="https://apps.apple.com/tr/app/notecook/id6811676558"><img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" alt="Download notecook on the App Store"></a><br>
       <details><summary><sub>Screenshots</sub></summary><br>
-        <img src="assets/shots/notecook-1.jpg" width="24%" alt="notecook screenshot 1">
-        <img src="assets/shots/notecook-2.jpg" width="24%" alt="notecook screenshot 2">
-        <img src="assets/shots/notecook-3.jpg" width="24%" alt="notecook screenshot 3">
-        <img src="assets/shots/notecook-4.jpg" width="24%" alt="notecook screenshot 4">
+        <img src="assets/shots/notecook-1.jpg" width="24%" alt="notecook: every course on one shelf">
+        <img src="assets/shots/notecook-2.jpg" width="24%" alt="notecook: write with Apple Pencil, like paper">
+        <img src="assets/shots/notecook-3.jpg" width="24%" alt="notecook: mark up lecture PDFs">
+        <img src="assets/shots/notecook-4.jpg" width="24%" alt="notecook: dark paper mode">
       </details>
     </td>
   </tr>
