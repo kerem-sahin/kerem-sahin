@@ -42,11 +42,12 @@ I'm a university student. I build iOS apps alongside school.
     </td>
   </tr>
   <tr>
-    <td width="76" valign="top"><img src="assets/plainday.png" width="60" alt="plainday app icon"></td>
+    <td width="76" valign="top"><a href="https://apps.apple.com/tr/app/plainday/id6823780735"><img src="assets/plainday.png" width="60" alt="plainday app icon"></a></td>
     <td valign="top">
-      <b>plainday</b> · <i>in App Store review</i><br>
+      <b><a href="https://apps.apple.com/tr/app/plainday/id6823780735">plainday</a></b> · <i>on the App Store</i><br>
       Day planner that understands plain Turkish and English sentences. Widgets, alarms, Siri.<br>
-      <sub>SwiftUI · SwiftData · AlarmKit · WidgetKit · 211 tests</sub>
+      <sub>SwiftUI · SwiftData · AlarmKit · WidgetKit · 211 tests</sub><br>
+      <a href="https://apps.apple.com/tr/app/plainday/id6823780735"><img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" alt="Download plainday on the App Store"></a><br>
       <details><summary><sub>Screenshots</sub></summary><br>
         <img src="assets/shots/plainday-1.jpg" width="24%" alt="plainday screenshot 1">
         <img src="assets/shots/plainday-2.jpg" width="24%" alt="plainday screenshot 2">
@@ -56,11 +57,12 @@ I'm a university student. I build iOS apps alongside school.
     </td>
   </tr>
   <tr>
-    <td width="76" valign="top"><img src="assets/sweetspot.png" width="60" alt="SweetSpot app icon"></td>
+    <td width="76" valign="top"><a href="https://apps.apple.com/tr/app/sweetspot-sakl%C4%B1-yerler/id6824031187"><img src="assets/sweetspot.png" width="60" alt="SweetSpot app icon"></a></td>
     <td valign="top">
-      <b>SweetSpot</b> · <i>in App Store review</i><br>
+      <b><a href="https://apps.apple.com/tr/app/sweetspot-sakl%C4%B1-yerler/id6824031187">SweetSpot</a></b> · <i>on the App Store</i><br>
       A map of quiet, little-known places, photographed on the spot, with a moderated backend.<br>
-      <sub>SwiftUI · MapKit · Firebase · Cloud Functions</sub>
+      <sub>SwiftUI · MapKit · Firebase · Cloud Functions</sub><br>
+      <a href="https://apps.apple.com/tr/app/sweetspot-sakl%C4%B1-yerler/id6824031187"><img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white" height="28" alt="Download SweetSpot on the App Store"></a><br>
       <details><summary><sub>Screenshots</sub></summary><br>
         <img src="assets/shots/sweetspot-1.jpg" width="24%" alt="sweetspot screenshot 1">
         <img src="assets/shots/sweetspot-2.jpg" width="24%" alt="sweetspot screenshot 2">
@@ -95,8 +97,7 @@ Merhaba, ben Kerem. Üniversite öğrencisiyim, okulun yanında iOS uygulamalar�
 
 Portfolyom: **[kerem-sahin.github.io](https://kerem-sahin.github.io)**
 
-- **Yayında:** here. (aynı mekândaki insanlarla tanışma) ve notecook (iPad için el yazısı defteri)
-- **App Store onayında:** plainday (düz Türkçe cümleyle plan yapma) ve SweetSpot (saklı yerlerin haritası)
+- **App Store'da:** here. (aynı mekândaki insanlarla tanışma), notecook (iPad için el yazısı defteri), plainday (düz Türkçe cümleyle plan yapma) ve SweetSpot: Saklı Yerler (saklı yerlerin haritası)
 - **Geliştiriliyor:** Fiziyoo (fizyoterapistler için klinik ve postür analizi uygulaması)
 - **Açık kaynak:** PlainParse, "Cuma fizyoloji ödevi 18:00" gibi Türkçe cümleleri göreve çeviren Swift paketi
 
