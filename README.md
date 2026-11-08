@@ -85,12 +85,12 @@ I'm a university student. I build iOS apps and web projects alongside school.
 
 <table>
   <tr>
-    <td width="76" valign="top"><a href="https://85milyondabir.vercel.app"><img src="assets/85milyonda1.png" width="60" alt="85 Milyonda 1 icon"></a></td>
+    <td width="76" valign="top"><a href="https://www.85milyondabir.com.tr"><img src="assets/85milyonda1.png" width="60" alt="85 Milyonda 1 icon"></a></td>
     <td valign="top">
       <b><a href="https://www.85milyondabir.com.tr">85 Milyonda 1</a></b> · <i>live on the web</i><br>
       A life simulation built on Turkey's real statistics. You're born at random, weighted by official TÜİK data, your life unfolds year by year, and you end up with a card to share.<br>
       <sub>Next.js · TypeScript · TÜİK data · next/og</sub><br>
-      <a href="https://85milyondabir.vercel.app"><img src="https://img.shields.io/badge/Live_a_life-85milyondabir.vercel.app-A5392D?style=for-the-badge" height="28" alt="Open 85 Milyonda 1"></a><br>
+      <a href="https://www.85milyondabir.com.tr"><img src="https://img.shields.io/badge/Live_a_life-85milyondabir.vercel.app-A5392D?style=for-the-badge" height="28" alt="Open 85 Milyonda 1"></a><br>
       <details><summary><sub>Share cards</sub></summary><br>
         <img src="assets/shots/85milyonda1-1.jpg" width="32%" alt="85 Milyonda 1 share card: a 93-year life">
         <img src="assets/shots/85milyonda1-2.jpg" width="32%" alt="85 Milyonda 1 share card: a 66-year life">
