@@ -79,6 +79,14 @@ I'm a university student. I build iOS apps and web projects alongside school.
       <sub>SwiftUI · SwiftData + CloudKit · Vision · Swift Charts · ~30k lines of Swift</sub>
     </td>
   </tr>
+  <tr>
+    <td width="76" valign="top"><img src="assets/wearcast.png" width="60" alt="Wearcast app icon"></td>
+    <td valign="top">
+      <b>Wearcast</b> · <i>in development</i><br>
+      A morning assistant that gives one clear outfit decision for the day, not a forecast. It learns from one-tap feedback on how the day felt.<br>
+      <sub>SwiftUI · WidgetKit · Swift Charts · Open-Meteo · 103 tests</sub>
+    </td>
+  </tr>
 </table>
 
 **Web**
@@ -117,7 +125,7 @@ Portfolyom: **[kerem-sahin.github.io](https://kerem-sahin.github.io)**
 
 - **App Store'da:** here. (aynı mekândaki insanlarla tanışma), notecook (iPad için el yazısı defteri), plainday (düz Türkçe cümleyle plan yapma) ve SweetSpot: Saklı Yerler (saklı yerlerin haritası)
 - **Web'de:** [85 Milyonda 1](https://85milyondabir.com.tr) (Türkiye'nin gerçek istatistiklerine dayanan hayat simülasyonu)
-- **Geliştiriliyor:** Fiziyoo (fizyoterapistler için klinik ve postür analizi uygulaması)
+- **Geliştiriliyor:** Fiziyoo (fizyoterapistler için klinik ve postür analizi uygulaması) ve Wearcast (her sabah tek ve net bir giyim kararı veren sabah asistanı)
 - **Açık kaynak:** PlainParse, "Cuma fizyoloji ödevi 18:00" gibi Türkçe cümleleri göreve çeviren Swift paketi
 
 </details>
