@@ -76,7 +76,13 @@ I'm a university student. I build iOS apps and web projects alongside school.
     <td valign="top">
       <b><a href="https://kerem-sahin.github.io/katman/">Katman</a></b> · <i>coming soon to the App Store</i><br>
       One clear outfit decision every morning, not a forecast. It reads the hours you're outside and learns from one-tap feedback on how the day felt.<br>
-      <sub>SwiftUI · WidgetKit · Swift Charts · Open-Meteo · 124 tests</sub>
+      <sub>SwiftUI · WidgetKit · Swift Charts · Open-Meteo · 124 tests</sub><br>
+      <details><summary><sub>Screenshots</sub></summary><br>
+        <img src="assets/shots/katman-1.jpg" width="24%" alt="Katman: one decision every morning">
+        <img src="assets/shots/katman-3.jpg" width="24%" alt="Katman: learns how quickly you get cold">
+        <img src="assets/shots/katman-4.jpg" width="24%" alt="Katman: fully covered on a cold day">
+        <img src="assets/shots/katman-5.jpg" width="24%" alt="Katman: keeps it simple on a hot day">
+      </details>
     </td>
   </tr>
   <tr>
