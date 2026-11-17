@@ -72,19 +72,19 @@ I'm a university student. I build iOS apps and web projects alongside school.
     </td>
   </tr>
   <tr>
+    <td width="76" valign="top"><a href="https://kerem-sahin.github.io/katman/"><img src="assets/katman.png" width="60" alt="Katman app icon"></a></td>
+    <td valign="top">
+      <b><a href="https://kerem-sahin.github.io/katman/">Katman</a></b> · <i>coming soon to the App Store</i><br>
+      One clear outfit decision every morning, not a forecast. It reads the hours you're outside and learns from one-tap feedback on how the day felt.<br>
+      <sub>SwiftUI · WidgetKit · Swift Charts · Open-Meteo · 124 tests</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="76" valign="top"><img src="assets/fiziyoo.png" width="60" alt="Fiziyoo app icon"></td>
     <td valign="top">
       <b>Fiziyoo</b> · <i>in development</i><br>
       Clinic app for physiotherapists, with photo-based posture analysis that shows each measurement with its error band.<br>
       <sub>SwiftUI · SwiftData + CloudKit · Vision · Swift Charts · ~30k lines of Swift</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="76" valign="top"><img src="assets/wearcast.png" width="60" alt="Wearcast app icon"></td>
-    <td valign="top">
-      <b>Wearcast</b> · <i>in development</i><br>
-      A morning assistant that gives one clear outfit decision for the day, not a forecast. It learns from one-tap feedback on how the day felt.<br>
-      <sub>SwiftUI · WidgetKit · Swift Charts · Open-Meteo · 103 tests</sub>
     </td>
   </tr>
 </table>
@@ -125,7 +125,8 @@ Portfolyom: **[kerem-sahin.github.io](https://kerem-sahin.github.io)**
 
 - **App Store'da:** here. (aynı mekândaki insanlarla tanışma), notecook (iPad için el yazısı defteri), plainday (düz Türkçe cümleyle plan yapma) ve SweetSpot: Saklı Yerler (saklı yerlerin haritası)
 - **Web'de:** [85 Milyonda 1](https://85milyondabir.com.tr) (Türkiye'nin gerçek istatistiklerine dayanan hayat simülasyonu)
-- **Geliştiriliyor:** Fiziyoo (fizyoterapistler için klinik ve postür analizi uygulaması) ve Wearcast (her sabah tek ve net bir giyim kararı veren sabah asistanı)
+- **Yakında App Store'da:** [Katman](https://kerem-sahin.github.io/katman/) (her sabah tek ve net bir giyim kararı veren sabah asistanı)
+- **Geliştiriliyor:** Fiziyoo (fizyoterapistler için klinik ve postür analizi uygulaması)
 - **Açık kaynak:** PlainParse, "Cuma fizyoloji ödevi 18:00" gibi Türkçe cümleleri göreve çeviren Swift paketi
 
 </details>
